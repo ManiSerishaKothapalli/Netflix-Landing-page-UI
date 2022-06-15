@@ -1,1 +1,2 @@
-# Netflix-UI
+# Netflix landing page clone
+ 
